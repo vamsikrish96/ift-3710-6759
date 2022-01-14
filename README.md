@@ -1,4 +1,5 @@
-# IFT 3710/6759 - Projets (avancés) en apprentissage automatique
+James Tsui
+ IFT 3710/6759 - Projets (avancés) en apprentissage automatique
 ## Git tutorial
 
 A dummy repository for educational purposes
