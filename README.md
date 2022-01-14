@@ -1,14 +1,20 @@
-# IFT 3710/6759 - Projets (avancés) en apprentissage automatique
+James Tsui
+ IFT 3710/6759 - Projets (avancés) en apprentissage automatique
 ## Git tutorial
 
 A dummy repository for educational purposes
 
 ## A playground for you to play
 
-Add your name and GitHub username to the list (or anything else if you do not want to add your personal information):
+Yassine 
+and GitHub username to the list (or anything else if you do not want to add your personal information):
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Vamsikrishna Chemudupati, vamsikrish96
+* Qilin Wang, qilinwang
+* Charmi Chokshi, charmichokshi
+Hemanth
+researchofhemanth
 
 ## Intro to Markdown
 
