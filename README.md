@@ -5,7 +5,8 @@ A dummy repository for educational purposes
 
 ## A playground for you to play
 
-Add your name and GitHub username to the list (or anything else if you do not want to add your personal information):
+Yassine 
+and GitHub username to the list (or anything else if you do not want to add your personal information):
 
 * Alex Hernandez-Garcia, alexhernandezgarcia
 * Your Name, yourgithubusername
